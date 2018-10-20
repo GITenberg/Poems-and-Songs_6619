@@ -36,5 +36,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Poetry'
+- GITenberg
 title: Poems and Songs
 url: http://www.gutenberg.org/ebooks/6619
